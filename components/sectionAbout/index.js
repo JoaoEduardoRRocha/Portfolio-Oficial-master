@@ -14,11 +14,11 @@ export class SectionAbout extends HTMLElement {
                     <label class="about-me-text__tittle">
                         Um pouco mais sobre mim
                     </label>
-                    Meu nome é João Rocha e tenho 25 anos.
-                    Sempre tive muito contato e interesse com tecnologia, durante a faculdade de Engenharia há 2 anos atrás,
-                    tive o prazer de estudar programação. Ver linhas de códigos se transformando em uma aplicação é fascinante.
-                    Com a chegada da pandemia, resolvi entrar de cabeça nessa área. Atualmente sou Desenvolvedor front-end e sigo
-                    aprimorando minhas habilidades como freelancer, cursos e projetos pessoais.
+                    Meu nome é João Rocha e tenho 25 anos. Sempre tive muito contato e interesse com tecnologia. 
+                    Durante a faculdade de Engenharia, há 2 anos, tive o prazer de estudar programação. 
+                    Ver linhas de código se transformando em uma aplicação é fascinante. Com a chegada da pandemia, 
+                    resolvi me dedicar totalmente a essa área. Atualmente, sou Desenvolvedor front-end 
+                    e continuo aprimorando minhas habilidades por meio de trabalhos freelancers, cursos e projetos pessoais.
                 </div>
       </section>
       `;
