@@ -21,8 +21,8 @@ export class Section extends HTMLElement {
                 </header>
 
                 <div class="box-main-buttons">
-                    <a class="box-main-buttons__main-buttons" href="./pages/sobremim.html"><span>Sobre</span></a>
                     <a class="box-main-buttons__main-buttons" href="./pages/projetos.html"><span>Projetos</span></a>
+                    <a class="box-main-buttons__main-buttons" href="./pages/sobremim.html"><span>Sobre</span></a>
                     <a class="box-main-buttons__main-buttons" href="https://wa.me/5521976747042" target="_blank"><span>Contato</span></a>
                 </div>
             </div>
