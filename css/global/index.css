@@ -1,0 +1,48 @@
+/* CONFIGURAÇÃO PADRÃO */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6rem;
+
+  background-color: #F2F2F2;
+}
+
+a {
+  text-decoration: none;
+  color:inherit;
+  background: none;
+}
+
+body {
+  color: #141414;
+}
+
+main {
+  max-width: 108rem;
+  margin: auto;
+}
+
+@media (max-width: 1000px) {
+  main {
+      max-width: 80rem;
+      display: flex;
+      flex-direction: column;
+  }
+}
+
+@media (max-width: 540px) {
+  /* formatando main */
+  main {
+      max-width: 46rem;
+  }
+}
+
