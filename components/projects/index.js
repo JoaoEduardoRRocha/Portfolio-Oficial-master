@@ -16,7 +16,7 @@ export class Projects extends HTMLElement {
                     <li>- Responsividade para versões Mobile</li>
                 </div>
                 <div class="project-button">
-                    <a target="_blank" href="https://clone-netflix-opal-five.vercel.app/"><img src="/img/seta.png" alt=""></a>
+                    <a target="_blank" href="https://devjoaorocha-react-project.vercel.app/"><img src="/img/seta.png" alt=""></a>
                     <a target="_blank" href="https://github.com/JoaoEduardoRRocha/clonenetflix"><img src="/img/gitbutton.png" alt=""></a>
                 </div>
             </div>
