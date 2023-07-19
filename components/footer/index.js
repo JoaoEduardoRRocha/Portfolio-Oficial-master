@@ -30,7 +30,7 @@ export class Footer extends HTMLElement {
 
         <div class="container-social-medias">
             <strong class="curriculum">Currículo</strong>
-            <a href="https://drive.google.com/file/d/15XWXCZpUcF5fqh6q7bXJsYHzrqQJa1wI/view?usp=sharing" target="_blank"><img src="/img/curriculoicon.png" alt=""></a>
+            <a href="https://drive.google.com/file/d/15XWXCZpUcF5fqh6q7bXJsYHzrqQJa1wI/view" target="_blank"><img src="/img/curriculoicon.png" alt=""></a>
         </div>
     </footer>
       `;
